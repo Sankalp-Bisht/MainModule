@@ -1,0 +1,10 @@
+body{
+    background-image: url("https://miro.medium.com/max/821/1*Fi6masemXJT3Q8YWekQCDQ.png");
+    background-size: cover;
+}
+
+.card{
+    width:50%;
+    margin-left: 350px;
+    margin-top: 200px;;
+}
